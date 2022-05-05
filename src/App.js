@@ -30,6 +30,7 @@ import Stickyheader4 from './components/Stickyheader4';
 import Label from './components/Label';
 import Containedbutton from './components/Containedbutton';
 import HomeRoundedIcon from '@material-ui/icons/HomeRounded';
+import Basicalerts from './components/Basicalerts'
 
 
 function App() {
@@ -42,6 +43,13 @@ function App() {
         <Grid className={"weigth"}>
           <Grid>
             <p className={"p-margin-s"}></p>
+          </Grid>
+          <Grid item>
+              <h1 className={"title"}>Basic Alerts</h1>
+              <Grid className={"left-margin-l"}>        
+                <Basicalerts />
+              </Grid>
+              <p className={"p-margin-l"}></p>
           </Grid>
           <Grid item>
               <h1 className={"title"}>Checbox Label</h1>
