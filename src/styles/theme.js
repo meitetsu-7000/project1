@@ -5,7 +5,7 @@ const theme = createTheme({
    
     primary: {
       light: '#4ba79a',
-      main: '#0a786c',
+      main: '#e2041b',
       dark: '#004b41',
       contrastText: '#ffffff',
       mainGradient: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
