@@ -1,0 +1,61 @@
+.title {
+    color: #0a786c;
+    padding-top: 1%;
+    
+}
+
+.p-margin-ss {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.p-margin-s {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.p-margin-m {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.p-margin-l {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.left-margin-s {
+    margin-left: 1.5rem;
+}
+
+.left-margin-m {
+    margin-left: 3rem;
+}
+
+.left-margin-l {
+    margin-left: 5rem;
+}
+
+.weigth{
+
+    width: 80%;
+    margin:0 auto;
+    
+}
+
+.back {
+    background-color: #f2f2f2;
+
+}
+
+.margin-s {
+    margin: 5%;
+}
+
+.margin-m{
+    margin: 7%;
+}
+
+.margin-l{
+    margin: 10%;
+}
